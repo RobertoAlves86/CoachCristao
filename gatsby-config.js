@@ -54,8 +54,8 @@ module.exports = {
         name: `Coach Cristão`,
         short_name: `Coach Cristão`,
         start_url: `/`,
-        background_color: `#049663`,
-        theme_color: `#049663`,
+        background_color: `#000000`,
+        theme_color: `#000000`,
         display: `standalone`,
         icon: `static/app-icon.png`, // This path is relative to the root of the site.
       },
