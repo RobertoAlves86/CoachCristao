@@ -3,8 +3,8 @@ require('dotenv').config()
 /* eslint-disable @typescript-eslint/camelcase */
 module.exports = {
   siteMetadata: {
-    title: 'WebSheets',
-    titleTemplate: '%s | WebSheets',
+    title: 'Coach Cristão',
+    titleTemplate: '%s | Coach Cristão',
     description: 'Create listing websites with Google Sheets data',
     author: 'sohafidz',
     url: 'https://websheets.co', // No trailing slash allowed!
@@ -51,8 +51,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `WebSheets`,
-        short_name: `WebSheets`,
+        name: `Coach Cristão`,
+        short_name: `Coach Cristão`,
         start_url: `/`,
         background_color: `#049663`,
         theme_color: `#049663`,
